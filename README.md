@@ -38,14 +38,6 @@ In the end, we also compared our Deeplearning networks to a more traditional mac
 Contributions are always welcome! Although we published this project, it does not mean it is finished! 
 If you see anything, that can be done better, or can be improved - please contribute!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-## Final network image
-
-![Image of the tensorflow model](https://github.com/michael-ra/SSIS_Roof_DiffFeatClust/blob/main/Model.jpeg?raw=true)
-## References
 
 <a id="1">[1]</a> K. A. Kanezaki and M. Tanaka. Unsupervised learning of
 image segmentation based on differentiable feature clustering.
