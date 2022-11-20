@@ -21,8 +21,8 @@ We also compared all different types and gradual improvements we have made to su
 In the end, we also compared our Deeplearning networks to a more traditional machine learning approach (k-means) and also a basic method for segmentation based on greyscaling the image.
 ## Authors
 
-- [Michael Ramich](https://github.com/michael-ra)
 - [Magnus Müller](https://github.com/MagMueller/)
+- [Michael Ramich](https://github.com/michael-ra)
 
 ## Notebook features
 
